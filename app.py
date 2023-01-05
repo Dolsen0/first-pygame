@@ -2,7 +2,7 @@ import pygame
 
 pygame.init()
 
-canvas = pygame.display.set_mode(500, 500)
+canvas = pygame.display.set_mode((1280, 720))
 
 pygame.display.set_caption("Ready?")
 exit = False
